@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47599" started-at="2017-07-01T03:16:23Z" finished-at="2017-07-01T03:17:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47599" started-at="2017-07-01T03:16:23Z" finished-at="2017-07-01T03:17:10Z">
+      <class name="com.application.scripts.TC01">
+        <test-method status="PASS" signature="suiteFirst(org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="suiteFirst" is-config="true" duration-ms="178" started-at="2017-06-30T23:16:22Z" finished-at="2017-06-30T23:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteFirst -->
+        <test-method status="PASS" signature="first(org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="first" is-config="true" duration-ms="3" started-at="2017-06-30T23:16:23Z" finished-at="2017-06-30T23:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="firstBeforeClass(org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="firstBeforeClass" is-config="true" duration-ms="1" started-at="2017-06-30T23:16:23Z" finished-at="2017-06-30T23:16:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstBeforeClass -->
+        <test-method status="PASS" signature="reportHeader(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="reportHeader" is-config="true" duration-ms="43308" started-at="2017-06-30T23:16:23Z" finished-at="2017-06-30T23:17:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.application.scripts.TC01.testTC01() throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportHeader -->
+        <test-method status="PASS" signature="testTC01()[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="testTC01" duration-ms="2313" started-at="2017-06-30T23:17:06Z" finished-at="2017-06-30T23:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="tearDown" is-config="true" duration-ms="1937" started-at="2017-06-30T23:17:08Z" finished-at="2017-06-30T23:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="close" is-config="true" duration-ms="0" started-at="2017-06-30T23:17:10Z" finished-at="2017-06-30T23:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="first1(org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="first1" is-config="true" duration-ms="2" started-at="2017-06-30T23:17:10Z" finished-at="2017-06-30T23:17:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first1 -->
+        <test-method status="PASS" signature="tearDownFirefox(org.testng.ITestContext)[pri:0, instance:com.application.scripts.TC01@4923ab24]" name="tearDownFirefox" is-config="true" duration-ms="1759" started-at="2017-06-30T23:17:10Z" finished-at="2017-06-30T23:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f316aeb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownFirefox -->
+      </class> <!-- com.application.scripts.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
